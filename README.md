@@ -1,6 +1,5 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working with web development
 - 🌱 I’m currently learning Django
 - 🤔 I’m looking to start learning mobile development
 
