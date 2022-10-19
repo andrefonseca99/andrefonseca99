@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 📱 I’m currently developing Django and React Native apps.
+- 📱 I’m currently developing Django projects and React Native apps.
 
 <div align="center">
   <a href="https://github.com/andrefonseca99">
