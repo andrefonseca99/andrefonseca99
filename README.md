@@ -1,7 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning Django
-- 🤔 I’m looking to start learning mobile development
+- 📱 I’m currently developing Django and React Native apps.
 
 <div align="center">
   <a href="https://github.com/andrefonseca99">
